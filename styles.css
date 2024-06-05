@@ -72,29 +72,33 @@ body {
 }
 
 .btn-facebook {
-    background-color: #1877f2;
+    background: linear-gradient(to right, #1877f2, #67a5f7); 
 }
 
 .btn-youtube {
-    background-color: #ff0000;
+    background: linear-gradient(to right, #ff0000, #f55e5e);
 }
 
 .btn-discord {
-    background-color: #7289da;
+    background: linear-gradient(to right, #7289da, #95a6e0);
+
 }
 
 .btn-github {
-    background-color: #333;
+    background: linear-gradient(to right, #333, #6d6d6d);
+
 }
 
 .btn-instagram {
-    background-color: #e4405f;
+    background: linear-gradient(to right, #e4405f, #f37088);
+
 }
 
 .btn-telegram {
-    background-color: #28a8e9;
+    background: linear-gradient(to right, #28a8e9, #58c5fc);
+
 }
 
 .btn-steam {
-    background-color: #00b9e4;
+    background: linear-gradient(to right, #00b9e4, #55d3f0);
 }
